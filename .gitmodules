@@ -1,0 +1,3 @@
+[submodule "MarketPeak_Ecommerce"]
+	path = MarketPeak_Ecommerce
+	url = https://github.com/LobSab/MarketPeak_Ecommerce.git
