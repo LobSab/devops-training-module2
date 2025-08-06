@@ -9,7 +9,15 @@ One of DataWise Solutions' clients, a burgeoning e-commerce startup, is looking 
 ## Project Implementation
 1. Create a working directory for this project
 2. Create shell script file inside the project directory and write the script
-![ec2-s3-deploy-scrpt](./jmage/ec2-s3-deploy-script.PNG)
+![ec2-s3-deploy-scrpt](./image/nano-command.PNG)
+
+![nano command](./image/env.PNG)
+
+![ec2-function](./image/ec2-function.PNG)
+
+![s3-function](./image/s3-function.PNG)
+
+![script execution](./image/script-execution.PNG)
 
 3. Change the script file permisssions with this command *chmod +x ec2-s3-deploy.sh*
 4. Now run the script with this command *./ec2-s3-deploy.sh*
