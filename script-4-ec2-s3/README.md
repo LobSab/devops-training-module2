@@ -21,10 +21,10 @@ One of DataWise Solutions' clients, a burgeoning e-commerce startup, is looking 
 
 3. Change the script file permisssions with this command *chmod +x ec2-s3-deploy.sh*
 4. Now run the script with this command *./ec2-s3-deploy.sh*
-![ec2-s3-deployment](./jmage/ec2-s3-deploy-script-success.PNG)
+![ec2-s3-deployment](./image/ec2-s3-deploy-script-success.PNG)
 
 5. Navigate to the AWS EC2 Instance console
-![ec2-dashboard](./jmage/ec2-success.PNG)
+![ec2-dashboard](./image/ec2-success.PNG)
 
 6. Navigate to the AWS S3 Bucket console
-![s3-bucket](./jmage/s3-success.PNG)
+![s3-bucket](./image/s3-success.PNG)
